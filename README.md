@@ -1,3 +1,3 @@
 Assembly
 ========
-This about adding an assembly programs
+This about adding mips assembly programs
